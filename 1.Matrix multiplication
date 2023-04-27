@@ -48,3 +48,21 @@ printf("\n");
 }    
 return 0;  
 }
+
+OUTPUT:
+
+enter the number of row=2
+enter the number of column=2
+enter the first matrix element=
+12
+13
+14
+15
+enter the second matrix element=
+23
+24
+25
+26
+multiply of the matrix=
+601     626
+697     726
